@@ -1,0 +1,8 @@
+@import 'variable';
+
+header {
+    font-family: sans-serif;
+    background-color: $bg;
+    color: $red-color;
+    font-size: $font-size;
+}
